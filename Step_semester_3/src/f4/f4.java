@@ -1,3 +1,4 @@
+package f4;
 class SrmStudent {
 
     String name;
