@@ -1,18 +1,51 @@
-## Getting Started
+# STEP Semester 3
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Session 1 — 01-08-2026
+**Topic:** Arrays
 
-## Folder Structure
+- Completed class problems and assignment problems on arrays.
+- Organized the work under `src/main/java/arrays/`.
 
-The workspace contains two folders by default, where:
+**Next Session Plan:** Continue with the next STEP topic.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+**Issues Faced:** None.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Session 2 — 08-08-2026
+**Topic:** Strings
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- Completed class problems and assignment problems on strings.
+- Organized the work under `src/main/java/strings/`.
 
-## Dependency Management
+**Next Session Plan:** Continue with the next STEP topic.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+**Issues Faced:** None.
+
+## Session 3 — 22-08-2026
+**Topic:** Classes and Objects
+
+- Completed class problems and assignment problems on classes and objects.
+- Organized the work under `src/main/java/classes_and_objects/`.
+
+**Next Session Plan:** Continue with the next STEP topic.
+
+**Issues Faced:** None.
+
+## Session 4 — 29-08-2026
+**Topic:** Classes and Objects
+
+- Completed class problems and assignment problems on classes and objects.
+- Organized the work under `src/main/java/classes_and_objects/`.
+
+**Next Session Plan:** Continue with access modifiers and encapsulation.
+
+**Issues Faced:** None.
+
+## Session 5 — 05-09-2026
+**Topic:** Access Modifiers and Encapsulation
+
+- Completed class problems and assignment problems on access modifiers and encapsulation.
+- Organized the work under `src/main/java/access_modifiers_encapsulation/`.
+
+**Next Session Plan:** Continue with the next STEP topic.
+
+**Issues Faced:** None.
