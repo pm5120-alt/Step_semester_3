@@ -1,4 +1,20 @@
 # Step_semester_3
+## Date: 12-09-2026
+
+**Today's Work:**
+- Completed Week 6 of the STEP coursework.
+- Added Java assignment solutions for ticket registration validation, inheritance, polymorphism, late-fee overriding, StringBuilder reporting, promo-code validation, and nightly settlement.
+- Created and updated the `feature/session_6` branch from `develop`.
+- Organized the solutions under `inheritance_polymorphism/assigment_problems`.
+
+**Next Session Plan:**
+- Continue with the next STEP topic and its class and assignment problems.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 05-09-2026
 
 **Today's Work:**
