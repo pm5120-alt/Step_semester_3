@@ -58,7 +58,7 @@ class RunnerEntry5 extends RaceEntry5 {
     protected String category;
 
     public RunnerEntry5(String bibNumber, double entryFee, String category) {
-        super(bibNumber, entryFee,);
+        super(bibNumber, entryFee);
         this.category = category;
     }
 }
